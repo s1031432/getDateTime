@@ -2,4 +2,5 @@
 
 ```
     const getDateTime = require("@s1031432/getdatetime");
+    console.log( getDateTime( new Date() ) );
 ```
