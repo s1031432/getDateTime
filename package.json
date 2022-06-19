@@ -1,0 +1,18 @@
+{
+  "name": "getdatetime",
+  "version": "1.0.0",
+  "description": "Convert datetime object to string (YYYY/MM/DD hh:mm:ss)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "datetime"
+  ],
+  "author": "Yi-Tang, Huang",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/s1031432"
+  },
+  "repository": "https://github.com/s1031432/getDateTime"
+}
