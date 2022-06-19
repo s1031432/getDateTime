@@ -1,4 +1,4 @@
-module.export = {
+module.exports = {
     getDateTime: function (TS){
         var D = new Date(TS);
         var y = D.getFullYear();

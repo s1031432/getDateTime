@@ -1,6 +1,6 @@
 {
   "name": "@s1031432/getdatetime",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Convert datetime object to string (YYYY/MM/DD hh:mm:ss)",
   "main": "index.js",
   "scripts": {
